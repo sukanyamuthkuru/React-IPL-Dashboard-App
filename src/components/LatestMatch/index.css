@@ -1,0 +1,54 @@
+/* Write your CSS here */
+.latest-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 20px;
+  background-color: #0f172a;
+  border-radius: 20px;
+  min-width: 90vw;
+}
+.lates-part-1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-left: 60px;
+}
+.part-1-heading {
+  color: white;
+  font-family: 'Bree Serif';
+}
+.part-1-date {
+  color: white;
+  font-family: 'Bree Serif';
+  font-size: 20px;
+}
+.part-1-venue {
+  color: white;
+  font-family: 'Bree Serif';
+}
+.part-1-result {
+  color: white;
+  font-family: 'Bree Serif';
+}
+.competing-team-logo {
+  max-height: 40vh;
+  align-self: center;
+}
+.latest-part-2 {
+  display: flex;
+  flex-direction: column;
+}
+.first-innings-h {
+  color: white;
+  font-family: 'Bree Serif';
+  font-size: 20px;
+  align-self: flex-end;
+  margin-right: 60px;
+}
+.first-innings {
+  color: white;
+  font-family: 'Bree Serif';
+  align-self: flex-end;
+  margin-right: 60px;
+}

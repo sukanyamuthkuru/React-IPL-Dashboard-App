@@ -1,0 +1,34 @@
+/* Write your CSS here */
+.teamCard-list-item-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  padding: 20px;
+  border: solid 2px #ffffff;
+  border-radius: 10px;
+  text-decoration: none;
+  max-height: 20vh;
+  min-width: 40vw;
+  margin-right: 20px;
+  margin-bottom: 20px;
+  background-color: #ffffff33;
+}
+.team-image {
+  max-height: 100px;
+  max-width: 100px;
+  margin-right: 20px;
+  margin-left: 50px;
+}
+.team-name {
+  color: white;
+  font-family: 'Bree Serif';
+  text-align: center;
+  max-width: 20vw;
+  align-self: center;
+  margin-right: 40px;
+  font-size: 25px;
+}
+.link-item {
+  text-decoration: none;
+}

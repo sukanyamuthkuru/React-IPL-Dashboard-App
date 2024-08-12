@@ -1,0 +1,57 @@
+/* Write your CSS here */
+.RCB-colors {
+  background-image: linear-gradient(to bottom, #a4261d, #1e293b);
+}
+.KKR-colors {
+  background-image: linear-gradient(to bottom, #d91c1f, #5755a7);
+}
+.KXP-colors {
+  background-image: linear-gradient(to bottom, #ffffff33, #f7db00);
+}
+.CSK-colors {
+  background-image: linear-gradient(to bottom, #13418b, #da237b);
+}
+.RR-colors {
+  background-image: linear-gradient(to bottom, #4f5db0, #f26d22);
+}
+.MI-colors {
+  background-image: linear-gradient(to bottom, #0f172a, #4f5db0);
+}
+.SH-colors {
+  background-image: linear-gradient(to bottom, #4f5db0, #f26d22);
+}
+.DC-colors {
+  background-image: linear-gradient(to bottom, #4f5db0, #f26d22);
+}
+.team-matches-container {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+.team-matches-containers {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+.team-banner {
+  min-width: 90vw;
+}
+.latest-matches-heading {
+  color: white;
+  font-family: 'Bree Serif';
+  font-weight: bold;
+  align-self: flex-start;
+  margin-left: 60px;
+}
+.match-card-container {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
